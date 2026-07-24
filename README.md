@@ -10,6 +10,8 @@ To be filled...
 3. Create the environment from the yml file: ***"conda env create -f environment.yml"***
 4. Activate the environment: 
 ***"conda activate uk_rental_prices"***
+5. Download the ONS file following the instructions under the Data Sources sections. Save the file in `data/raw`
+6. Open the notebook  ***rental_analysis.ipynb*** (inside `notebooks/`) and run it
 
 ## PROJECT STRUCTURE
 *  `data/`: Raw and processed datasets.

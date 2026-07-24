@@ -217,4 +217,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Ignore macOS system files
 .DS_Store
+**/.DS_Store
+
+# Ignore data files
+*.csv
+*.xlsx
+*.xls
+*.json
