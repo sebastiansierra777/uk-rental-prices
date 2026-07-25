@@ -226,3 +226,9 @@ __marimo__/
 *.xlsx
 *.xls
 *.json
+
+# Ignore all general outputs
+output/*.png
+output/*.pdf
+
+# ...but track the presentation images for the README
