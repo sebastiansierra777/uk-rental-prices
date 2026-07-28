@@ -11,12 +11,12 @@ To be filled...
 4. Activate the environment: 
 ***"conda activate uk_rental_prices"***
 5. Download the ONS file following the instructions under the Data Sources sections. Save the file in `data/raw`
-6. Open the notebooks, starting from  ***rental_analysis.ipynb*** (inside `notebooks/`) and run it. Then open ***rental_analysis2.
+6. Navigate to `notebooks/` folder and run the notebooks sequentially
 
 ## PROJECT STRUCTURE
 *  `data/`: Raw and processed datasets.
 * `notebooks/`: Jupyter notebooks.
-* `scr/`: Python scripts.
+* `src/`: Python scripts.
 * `environment.yml`: Conda environment dependencies.
 * `README.md`: Project documentation.
 
