@@ -7,11 +7,9 @@ Data Analysis of UK private rental price statistics for June 2026 using Python a
 
    ![Histogram showing right-skewed distribution of UK rental prices](assets/readme_histogram.png)
 
-3. I also created a map with the data. The png can be seen here below, and this is the datawrapper link to access the interactive version: [Datawrapper Map](https://www.datawrapper.de/_/MCMF1/)
+3. I also created a map for England with the data. The png can be seen here below, and this is the datawrapper link to access the interactive version: [Datawrapper Map](https://www.datawrapper.de/_/MCMF1/)
 
-   ![Map of UK Rental Prices](assets/readme_map.png)
-
-Scotland and Northern Ireland could not be mapped though. NI has no data, and Scotland uses Broad Rental Market Areas for this information, which is a geometry not currently supported by Datawrapper choropleths. 
+   ![Map of England Rental Prices](assets/readme_map.png)
 
 
 ## HOW TO RUN IT
